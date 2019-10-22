@@ -1,0 +1,88 @@
+[
+  {
+    "name": "NAME",
+    "canComment": true,
+    "canLike": true,
+    "enable": true,
+    "entityId": 24274,
+    "price": 0,
+    "discount": 0,
+    "changePreview": false,
+    "metadata": {},
+    "unlimited": true,
+    "categories": [],
+    "guildCode": "INFORMATION_TECHNOLOGY_GUILD",
+    "allowUserInvoice": false,
+    "allowUserPrice": false,
+    "attTemplateCode": "پیراهن مردانه",
+    "attributes": [
+      {
+        "attCode": "gender",
+        "attValue": "مردانه",
+        "attGroup": false
+      },
+      {
+        "attCode": "color",
+        "attValue": "سیاه",
+        "attGroup": false
+      },
+      {
+        "attCode": "size",
+        "attValue": "32",
+        "attGroup": false
+      }
+    ],
+    "lat": 0,
+    "lng": 0,
+    "tags": [],
+    "content": "CONTENT",
+    "previewImage": "YOUR IMAGE ADDRESS",
+    "tagTrees": [],
+    "tagTreeCategoryName": "",
+    "preferredTaxRate": 0,
+    "quantityPrecision": 0
+  },
+  {
+    "name": "NAME",
+    "canComment": true,
+    "canLike": true,
+    "enable": true,
+    "entityId": 24274,
+    "price": 0,
+    "discount": 0,
+    "changePreview": false,
+    "metadata": {},
+    "unlimited": true,
+    "categories": [],
+    "guildCode": "INFORMATION_TECHNOLOGY_GUILD",
+    "allowUserInvoice": false,
+    "allowUserPrice": false,
+    "attTemplateCode": "پیراهن مردانه",
+    "attributes": [
+      {
+        "attCode": "gender",
+        "attValue": "مردانه",
+        "attGroup": false
+      },
+      {
+        "attCode": "color",
+        "attValue": "سیاه",
+        "attGroup": false
+      },
+      {
+        "attCode": "size",
+        "attValue": "32",
+        "attGroup": false
+      }
+    ],
+    "lat": 0,
+    "lng": 0,
+    "tags": [],
+    "content": "CONTENT",
+    "previewImage": "YOUR IMAGE ADDRESS",
+    "tagTrees": [],
+    "tagTreeCategoryName": "",
+    "preferredTaxRate": 0,
+    "quantityPrecision": 0
+  }
+]
